@@ -76,7 +76,7 @@
   <li>HTML5</li>
   <li>CSS3</li>
   <li>Bootstrap</li>
-  <li>JavaScript</li>
+  <li>React</li>
 </ul>
 
 <h3>🔹 Backend</h3>
@@ -90,6 +90,12 @@
   <li>MySQL</li>
   <li>Oracle SQL</li>
   <li>MongoDB</li>
+</ul>
+
+<h3>🔹 Programming Languages</h3>
+<ul>
+  <li>JavaScript</li>
+  <li>Java</li>
 </ul>
 
 <h3>🔹 Automation Testing</h3>
